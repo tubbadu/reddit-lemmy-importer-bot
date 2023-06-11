@@ -1,4 +1,4 @@
-export const config = { // hello
+export const config = {
 	reddit_id: "INSERT_HERE",
 	reddit_secret: "INSERT_HERE",
 	reddit_useragent: "INSERT_HERE",
