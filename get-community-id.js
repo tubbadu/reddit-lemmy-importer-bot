@@ -18,7 +18,7 @@ const community = {
 import LemmyBot from 'lemmy-bot';
 import snoowrap from "snoowrap";
 
-import Config from "./credentials.js"
+import Config from "./secret/credentials.js" // move credentials.js into ./secret/credentials.js in order to get it working
 
 const config = Config.Config
 
