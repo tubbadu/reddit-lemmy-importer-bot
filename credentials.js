@@ -1,5 +1,5 @@
 export const config = {
-	reddit_id: "caccapuzza2",
+	reddit_id: "INSERT_HERE",
 	reddit_secret: "INSERT_HERE",
 	reddit_useragent: "INSERT_HERE",
 	reddit_username: "INSERT_HERE",
