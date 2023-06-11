@@ -1,0 +1,16 @@
+{
+  "name": "reddit-lemmy-importer-bot",
+  "version": "1.0.0",
+  "description": "an experiment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tubbadu",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "lemmy-bot": "^0.3.9",
+    "snoowrap": "^1.23.0"
+  },
+  "type": "module"
+}
