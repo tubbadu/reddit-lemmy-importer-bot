@@ -7,7 +7,7 @@ export const config = {
 	lemmy_username: "INSERT_HERE",
 	lemmy_password: "INSERT_HERE",
 	lemmy_instance: "INSERT_HERE",
-	reddit_shitjustworks_reddit_memes_id: 1641
+	reddit_shitjustworks_reddit_memes_id: 1641 // get this with get-community-id.js
 }
 
 export default { Config: config } 
